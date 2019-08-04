@@ -1,0 +1,6 @@
+messages:
+  access-denied: '&cAccess denied!'
+  added: '&6%command% &eadded to the block list'
+  removed: '&6%command% &eremoved from the block list'
+  list-header: '&6Current blocked commands:%br%%br%'
+  list-data: '&e%command%'

@@ -1,0 +1,8 @@
+name: TabRestrict
+author: Strahan
+main: com.sylvcraft.TabRestrict
+version: 1.0
+description: Restrict tab complete to only certain commands
+commands:
+  tabrst:
+    description: Control command
